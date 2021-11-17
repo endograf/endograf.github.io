@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../templatemo_551_stand_blog/assets"
+		},
+		{
+			"name": "orange",
+			"path": "."
+		},
+		{
+			"name": "vendor",
+			"path": "../templatemo_551_stand_blog/vendor"
+		}
+	],
+	"settings": {}
+}
